@@ -1,0 +1,9 @@
+img {
+    width: 400px;
+}
+body {
+    text-align: center;
+    font-family: Cambria;
+    background: rgb(0, 23, 76);
+    color: rgb(255, 0, 76);
+}
